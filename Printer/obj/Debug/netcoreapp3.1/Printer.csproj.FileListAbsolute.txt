@@ -1,0 +1,14 @@
+C:\Users\Omen\Documents\Lab5\Printer\bin\Debug\netcoreapp3.1\Printer.exe
+C:\Users\Omen\Documents\Lab5\Printer\bin\Debug\netcoreapp3.1\Printer.deps.json
+C:\Users\Omen\Documents\Lab5\Printer\bin\Debug\netcoreapp3.1\Printer.runtimeconfig.json
+C:\Users\Omen\Documents\Lab5\Printer\bin\Debug\netcoreapp3.1\Printer.runtimeconfig.dev.json
+C:\Users\Omen\Documents\Lab5\Printer\bin\Debug\netcoreapp3.1\Printer.dll
+C:\Users\Omen\Documents\Lab5\Printer\bin\Debug\netcoreapp3.1\Printer.pdb
+C:\Users\Omen\Documents\Lab5\Printer\obj\Debug\netcoreapp3.1\Printer.csproj.AssemblyReference.cache
+C:\Users\Omen\Documents\Lab5\Printer\obj\Debug\netcoreapp3.1\Printer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omen\Documents\Lab5\Printer\obj\Debug\netcoreapp3.1\Printer.AssemblyInfoInputs.cache
+C:\Users\Omen\Documents\Lab5\Printer\obj\Debug\netcoreapp3.1\Printer.AssemblyInfo.cs
+C:\Users\Omen\Documents\Lab5\Printer\obj\Debug\netcoreapp3.1\Printer.csproj.CoreCompileInputs.cache
+C:\Users\Omen\Documents\Lab5\Printer\obj\Debug\netcoreapp3.1\Printer.dll
+C:\Users\Omen\Documents\Lab5\Printer\obj\Debug\netcoreapp3.1\Printer.pdb
+C:\Users\Omen\Documents\Lab5\Printer\obj\Debug\netcoreapp3.1\Printer.genruntimeconfig.cache
