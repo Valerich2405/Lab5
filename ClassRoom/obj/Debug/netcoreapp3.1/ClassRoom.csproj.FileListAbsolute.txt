@@ -1,0 +1,14 @@
+C:\Users\Omen\Documents\Lab5\ClassRoom\bin\Debug\netcoreapp3.1\ClassRoom.exe
+C:\Users\Omen\Documents\Lab5\ClassRoom\bin\Debug\netcoreapp3.1\ClassRoom.deps.json
+C:\Users\Omen\Documents\Lab5\ClassRoom\bin\Debug\netcoreapp3.1\ClassRoom.runtimeconfig.json
+C:\Users\Omen\Documents\Lab5\ClassRoom\bin\Debug\netcoreapp3.1\ClassRoom.runtimeconfig.dev.json
+C:\Users\Omen\Documents\Lab5\ClassRoom\bin\Debug\netcoreapp3.1\ClassRoom.dll
+C:\Users\Omen\Documents\Lab5\ClassRoom\bin\Debug\netcoreapp3.1\ClassRoom.pdb
+C:\Users\Omen\Documents\Lab5\ClassRoom\obj\Debug\netcoreapp3.1\ClassRoom.csproj.AssemblyReference.cache
+C:\Users\Omen\Documents\Lab5\ClassRoom\obj\Debug\netcoreapp3.1\ClassRoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omen\Documents\Lab5\ClassRoom\obj\Debug\netcoreapp3.1\ClassRoom.AssemblyInfoInputs.cache
+C:\Users\Omen\Documents\Lab5\ClassRoom\obj\Debug\netcoreapp3.1\ClassRoom.AssemblyInfo.cs
+C:\Users\Omen\Documents\Lab5\ClassRoom\obj\Debug\netcoreapp3.1\ClassRoom.csproj.CoreCompileInputs.cache
+C:\Users\Omen\Documents\Lab5\ClassRoom\obj\Debug\netcoreapp3.1\ClassRoom.dll
+C:\Users\Omen\Documents\Lab5\ClassRoom\obj\Debug\netcoreapp3.1\ClassRoom.pdb
+C:\Users\Omen\Documents\Lab5\ClassRoom\obj\Debug\netcoreapp3.1\ClassRoom.genruntimeconfig.cache
