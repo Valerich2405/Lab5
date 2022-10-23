@@ -1,0 +1,14 @@
+C:\Users\Omen\Documents\Lab5\DocumentWorker\bin\Debug\netcoreapp3.1\DocumentWorker.exe
+C:\Users\Omen\Documents\Lab5\DocumentWorker\bin\Debug\netcoreapp3.1\DocumentWorker.deps.json
+C:\Users\Omen\Documents\Lab5\DocumentWorker\bin\Debug\netcoreapp3.1\DocumentWorker.runtimeconfig.json
+C:\Users\Omen\Documents\Lab5\DocumentWorker\bin\Debug\netcoreapp3.1\DocumentWorker.runtimeconfig.dev.json
+C:\Users\Omen\Documents\Lab5\DocumentWorker\bin\Debug\netcoreapp3.1\DocumentWorker.dll
+C:\Users\Omen\Documents\Lab5\DocumentWorker\bin\Debug\netcoreapp3.1\DocumentWorker.pdb
+C:\Users\Omen\Documents\Lab5\DocumentWorker\obj\Debug\netcoreapp3.1\DocumentWorker.csproj.AssemblyReference.cache
+C:\Users\Omen\Documents\Lab5\DocumentWorker\obj\Debug\netcoreapp3.1\DocumentWorker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omen\Documents\Lab5\DocumentWorker\obj\Debug\netcoreapp3.1\DocumentWorker.AssemblyInfoInputs.cache
+C:\Users\Omen\Documents\Lab5\DocumentWorker\obj\Debug\netcoreapp3.1\DocumentWorker.AssemblyInfo.cs
+C:\Users\Omen\Documents\Lab5\DocumentWorker\obj\Debug\netcoreapp3.1\DocumentWorker.csproj.CoreCompileInputs.cache
+C:\Users\Omen\Documents\Lab5\DocumentWorker\obj\Debug\netcoreapp3.1\DocumentWorker.dll
+C:\Users\Omen\Documents\Lab5\DocumentWorker\obj\Debug\netcoreapp3.1\DocumentWorker.pdb
+C:\Users\Omen\Documents\Lab5\DocumentWorker\obj\Debug\netcoreapp3.1\DocumentWorker.genruntimeconfig.cache
